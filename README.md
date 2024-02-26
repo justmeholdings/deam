@@ -1,0 +1,2 @@
+# deam
+clip on
